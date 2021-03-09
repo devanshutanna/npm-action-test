@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/devanshutanna/npm-action-test/issues"
   },
-  "homepage": "https://github.com/devanshutanna/npm-action-test#readme"
+  "homepage": "https://github.com/devanshutanna/npm-action-test#readme",
+
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@devanshutanna"
+  }
 }
